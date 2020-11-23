@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	top_dns
+#open	2020-11-22-22-34-37
+#fields	ts	ts_delta	record_type	top_queries	top_counts	top_epsilons
+#types	time	interval	string	vector[string]	vector[count]	vector[count]
+1478326612.329093	3600.000000	AAAA	com.(),com.{,com.:;,com.};,com.path=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bi,irongeek.com,debian.(),debian,debian.{,debian.:;	968,968,968,968,968,956,38,38,24,24	0,0,0,0,0,0,0,0,0,0
+1478326612.329093	3600.000000	A	com.(),com.{,com.:;,com.};,com.path=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bi,irongeek.com,google.com,mozilla.com	968,968,968,968,968,956,6,6	0,0,0,0,0,0,0,0
+#close	2020-11-22-22-34-37

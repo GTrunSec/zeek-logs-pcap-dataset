@@ -1,0 +1,29 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	notice
+#open	2020-11-22-23-33-00
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude
+#types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	string	string	string	double	double
+1416103911.914894	COKI1eJgpILqcMcJa	172.16.165.165	62720	172.16.165.2	53	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	bing.com	172.16.165.165	172.16.165.2	53	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103914.493624	CPrY4qw7JwiNMR5o1	172.16.165.165	51415	172.16.165.2	53	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	ciniholland.nl	172.16.165.165	172.16.165.2	53	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103916.905440	CsmVqF4JhpL0nnKxR	172.16.165.165	60914	172.16.165.2	53	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	adultbiz.in	172.16.165.165	172.16.165.2	53	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103930.530965	CkpscIdIuUgcg5NZ9	172.16.165.165	54787	172.16.165.2	53	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	24corp-shop.com	172.16.165.165	172.16.165.2	53	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103971.526505	C3viF14ZyF0T7KJU6g	172.16.165.165	50936	172.16.165.2	53	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	wpad.localdomain	172.16.165.165	172.16.165.2	53	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103981.549832	CE2b7n2SJFD1opJMv1	fe80::8db6:2c7:a019:4d88	53078	ff02::1:3	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	fe80::8db6:2c7:a019:4d88 <-unknown domain	wpad	fe80::8db6:2c7:a019:4d88	ff02::1:3	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103981.549832	CE2b7n2SJFD1opJMv1	fe80::8db6:2c7:a019:4d88	53078	ff02::1:3	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	fe80::8db6:2c7:a019:4d88 <-unknown domain	wpad	fe80::8db6:2c7:a019:4d88	ff02::1:3	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103981.549832	C7s4cj2RiW3FNuXaoa	172.16.165.165	63080	224.0.0.252	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	wpad	172.16.165.165	224.0.0.252	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103981.549832	C7s4cj2RiW3FNuXaoa	172.16.165.165	63080	224.0.0.252	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	wpad	172.16.165.165	224.0.0.252	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103992.637374	CetkZL2Q4R2aDdIbmd	172.16.165.165	137	172.16.165.2	137	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	WPAD	172.16.165.165	172.16.165.2	137	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103992.637374	CetkZL2Q4R2aDdIbmd	172.16.165.165	137	172.16.165.2	137	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	WPAD	172.16.165.165	172.16.165.2	137	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416103992.637374	CetkZL2Q4R2aDdIbmd	172.16.165.165	137	172.16.165.2	137	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	WPAD	172.16.165.165	172.16.165.2	137	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416104396.192075	CAd4h88QGLoOgHDxd	fe80::8db6:2c7:a019:4d88	58036	ff02::1:3	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	fe80::8db6:2c7:a019:4d88 <-unknown domain	k34en6w3n-pc	fe80::8db6:2c7:a019:4d88	ff02::1:3	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416104396.192075	CAd4h88QGLoOgHDxd	fe80::8db6:2c7:a019:4d88	58036	ff02::1:3	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	fe80::8db6:2c7:a019:4d88 <-unknown domain	k34en6w3n-pc	fe80::8db6:2c7:a019:4d88	ff02::1:3	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416104396.192075	CnRHRN1FKoBV0f5pKi	172.16.165.165	57368	224.0.0.252	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	k34en6w3n-pc	172.16.165.165	224.0.0.252	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416104396.192075	CnRHRN1FKoBV0f5pKi	172.16.165.165	57368	224.0.0.252	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	k34en6w3n-pc	172.16.165.165	224.0.0.252	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416104396.192075	CPiywhZLCUNYEXIEc	fe80::8db6:2c7:a019:4d88	56675	ff02::1:3	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	fe80::8db6:2c7:a019:4d88 <-unknown domain	k34en6w3n-pc	fe80::8db6:2c7:a019:4d88	ff02::1:3	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416104396.192075	CPiywhZLCUNYEXIEc	fe80::8db6:2c7:a019:4d88	56675	ff02::1:3	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	fe80::8db6:2c7:a019:4d88 <-unknown domain	k34en6w3n-pc	fe80::8db6:2c7:a019:4d88	ff02::1:3	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416104396.192075	CjVmyi4hUCHlIMYNW2	172.16.165.165	58144	224.0.0.252	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	k34en6w3n-pc	172.16.165.165	224.0.0.252	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+1416104396.192075	CjVmyi4hUCHlIMYNW2	172.16.165.165	58144	224.0.0.252	5355	-	-	-	udp	Alexa::DNS_Not_In_Alexa_1M	172.16.165.165 <-unknown domain	k34en6w3n-pc	172.16.165.165	224.0.0.252	5355	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-
+#close	2020-11-22-23-33-01

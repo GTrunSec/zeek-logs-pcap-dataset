@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	zip
+#open	2020-11-22-22-17-23
+#fields	ts	fid	content	valid	size	comp_size	mtime	crc	comp_method	encryption_method	flags
+#types	time	string	string	count	count	count	count	count	count	count	count
+1478375945.091326	F1VklK3evXm01AvZd	,Fl5Hxx.war,META-INF/application.xml	220	6519	6519	1606112243	0	0	0	102447920
+1478375945.091326	F1VklK3evXm01AvZd	,WEB-INF/,WEB-INF/web.xml,WEB-INF/classes/,WEB-INF/classes/metasploit/,WEB-INF/classes/metasploit/Payload.class,WEB-INF/classes/metasploit/PayloadServlet.class,WEB-INF/classes/metasploit.dat	220	6054	6054	1606112243	0	0	0	262380576
+#close	2020-11-22-22-17-23
